@@ -1,1 +1,1 @@
-# video_indexation
+# Classify_images_of_clothing
